@@ -9,7 +9,6 @@ import Image from 'next/image';
 import { HiHome } from 'react-icons/hi';
 import { BiSearch, BiCollection } from 'react-icons/bi';
 import { FiPlus } from 'react-icons/fi';
-import { PiMusicNotesPlusLight } from 'react-icons/pi';
 
 export default function Sidebar() {
   const pathname = usePathname();
